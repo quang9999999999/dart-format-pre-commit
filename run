@@ -2,4 +2,4 @@
 
 dart format $@
 
-git add .
+git add $@

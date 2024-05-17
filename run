@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-dart format --output=write .
+dart format $@
+git add .

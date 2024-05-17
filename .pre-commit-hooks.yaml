@@ -4,4 +4,3 @@
     entry: run
     language: script
     files: \.dart$
-    minimum_pre_commit_version: '1.0.0'

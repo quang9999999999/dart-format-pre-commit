@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
 dart format $@
+
+git add .

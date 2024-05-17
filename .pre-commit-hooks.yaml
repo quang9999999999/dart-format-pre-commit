@@ -1,6 +1,6 @@
 # Copyright 2024 QSoft, Ltd. All rights reserved.
 -   id: dart-format
     name: Dart Code format
-    entry: run
+    entry: run.sh
     language: script
     files: \.dart$

@@ -1,6 +1,6 @@
 # Copyright 2024 QSoft, Ltd. All rights reserved.
 -   id: dart-format
     name: Dart Code format
-    entry: rundartformat
+    entry: run
     language: script
     files: \.dart$
